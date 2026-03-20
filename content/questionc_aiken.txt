@@ -1,0 +1,208 @@
+Java является строго типизированным языком программирования.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java можно использовать множественное наследование классов.
+A. True
+B. False
+
+ANSWER: B
+
+
+Класс String в Java является изменяемым (mutable).
+A. True
+B. False
+
+ANSWER: B
+
+
+Метод main() в Java должен иметь возвращаемый тип void.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java все исключения делятся на checked и unchecked.
+A. True
+B. False
+
+ANSWER: A
+
+
+Ключевое слово final в Java можно применить к классу, методу и переменной.
+A. True
+B. False
+
+ANSWER: A
+
+
+Интерфейс в Java может содержать реализацию методов (начиная с Java 8).
+A. True
+B. False
+
+ANSWER: A
+
+
+Примитивный тип данных int в Java занимает 4 байта.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java массивы имеют фиксированную длину после создания.
+A. True
+B. False
+
+ANSWER: A
+
+
+Коллекция ArrayList в Java является синхронизированной.
+A. True
+B. False
+
+ANSWER: B
+
+
+В Java конструктор класса может иметь возвращаемый тип.
+A. True
+B. False
+
+ANSWER: B
+
+
+Статический метод может обращаться к нестатическим полям класса напрямую.
+A. True
+B. False
+
+ANSWER: B
+
+
+В Java поддерживается перегрузка операторов (operator overloading).
+A. True
+B. False
+
+ANSWER: B
+
+
+Ключевое слово super используется для вызова конструктора родительского класса.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java enum может содержать поля, конструкторы и методы.
+A. True
+B. False
+
+ANSWER: A
+
+
+Поток (Thread) в Java можно создать только через наследование класса Thread.
+A. True
+B. False
+
+ANSWER: B
+
+
+В Java сборщик мусора (Garbage Collector) удаляет объекты автоматически.
+A. True
+B. False
+
+ANSWER: A
+
+
+Ключевое слово transient в Java используется для указания, что поле не должно сериализоваться.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java можно объявить абстрактный класс без абстрактных методов.
+A. True
+B. False
+
+ANSWER: A
+
+
+Исключение NullPointerException является checked exception.
+A. True
+B. False
+
+ANSWER: B
+
+
+В Java метод может иметь переменное количество аргументов (varargs).
+A. True
+B. False
+
+ANSWER: A
+
+
+Класс Object в Java является родителем для всех классов.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java оператор instanceof проверяет принадлежность объекта к определенному типу.
+A. True
+B. False
+
+ANSWER: A
+
+
+Лямбда-выражения в Java появились начиная с версии Java 8.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java пакеты (package) используются для организации классов и предотвращения конфликтов имен.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java интерфейс может наследовать только один другой интерфейс.
+A. True
+B. False
+
+ANSWER: B
+
+
+Ключевое слово volatile в Java обеспечивает видимость переменной между потоками.
+A. True
+B. False
+
+ANSWER: A
+
+
+В Java конструктор может быть приватным.
+A. True
+B. False
+
+ANSWER: A
+
+
+Метод equals() в Java по умолчанию сравнивает содержимое объектов.
+A. True
+B. False
+
+ANSWER: B
+
+
+В Java поддерживается обобщенное программирование (generics).
+A. True
+B. False
+
+ANSWER: A
